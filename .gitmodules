@@ -1,0 +1,3 @@
+[submodule "Sugar.Core"]
+	path = Sugar.Core
+	url = git://github.com/TylerKendrick/Sugar.Core
